@@ -1,0 +1,15 @@
+.taskListContainer {
+    padding: 10px;
+    min-width: 250px;
+    box-shadow: 0px 0px 4px 1px #ccc;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #f1f2f4;
+    height: fit-content;
+}
+
+.taskDetailsContainer {
+    min-width: 400px;
+    padding: 30px;
+}
